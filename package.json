@@ -1,0 +1,11 @@
+{
+    "name" : "persistent-editor",
+    "version" : "0.1.0",
+    "author" : "Zoltan Tamasi <tzoltan84@gmail.com>",
+    "dependencies" : {
+        "express" : "3.*"
+    },
+    "engines": {
+        "node": ">=0.6"
+    }
+}
